@@ -1,2 +1,7 @@
 Cold and dry, but everything is my favorite color.
-Here is a second a line.
+
+here is another line about Mars 2
+
+another add
+>>>>>>> 74389367b22a2ce7863cb4ba4e5e7099bf2cd96c
+hello
